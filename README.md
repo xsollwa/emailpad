@@ -3,8 +3,20 @@
 
 ## Features 
 
-- 3 Macro buttons
-- 1 Rotary encoder
+- **3 Macro Buttons:**
+
+ Button 1 - Common email intro ("I hope this email finds you well.")
+ 
+ Button 2 - Common closing ("Best wishes,\nRuzanna")
+ 
+ Button 3 - Follow up reminder ("Please let me know if you have any questions")
+
+- **Rotary encoder**
+
+ 1 Clockwise - Scroll up between email app fields (Tab)
+ 
+ 2 Counterclockwise - Scroll down between email app fields (Shift+Tab)
+  
 - Custom pcb (using KiCAD)
 - Custom 3d model (using OnShape)
 - KMK firmware (using Python)
@@ -48,17 +60,6 @@
 
 ## Firmware
 The firmware is writen in Python using KMK Firmware.
-
-**3 Macro Buttons:**
-
-- Button 1 - Common email intro ("I hope this email finds you well.")
-- Button 2 - Common closing ("Best wishes,\nRuzanna")
-- Button 3 - Follow up reminder ("Please let me know if you have any questions")
-
-**Rotary encoder**
-
-- 1 Clockwise - Scroll up between email app fields (Tab)
-- 2 Counterclockwise - Scroll down between email app fields (Shift+Tab)
 
 **Pins**
 
